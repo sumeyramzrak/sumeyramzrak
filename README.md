@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumeyramzrak&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://raw.githubusercontent.com/MelihOzaslan01/sumeyramzrak/40c9b46908cf25088613aefa8d2a91d098f35230/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/sumeyramzrak/sumeyramzrak/40c9b46908cf25088613aefa8d2a91d098f35230/github-contribution-grid-snake.svg">
